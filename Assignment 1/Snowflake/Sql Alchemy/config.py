@@ -1,0 +1,5 @@
+username='***********'
+password='**********'
+account='********.us-east-1'
+warehouse='COMPUTE_WH'
+database='sevir'

@@ -1,0 +1,6 @@
+boto3
+flat_table
+pandas
+sklearn
+luigi
+ibm_watson

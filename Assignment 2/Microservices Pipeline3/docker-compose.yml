@@ -1,0 +1,14 @@
+version: "3.2"
+
+services:
+  microservices:
+    build:
+      context: ./
+    container_name: EDGARSentimentAPI
+    env_file:
+      - dev.env
+    restart: always
+    volumes:
+      - "./app:/usr/src/app:rw"
+    ports:
+      - "5000"
