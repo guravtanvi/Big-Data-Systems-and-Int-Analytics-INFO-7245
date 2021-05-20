@@ -162,11 +162,7 @@ Automating tasks in Snowflake using **Airflow**
 
 ## Streamlit
 
-## SEVIR Data Pipelining Using Google Cloud Platform
-
 We have implemented a Streamlit app to explore SEVIR Image data and Storm fatalites data
-
-## Steps to Regenerate GCP Architecture
 
 1. Download [SEVIR Metadata (CATALOG)](https://s3.console.aws.amazon.com/s3/object/sevir?region=us-west-2&prefix=CATALOG.csv) and any of the Storm Data from [NOAA Site](https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/)
 2. Create a new Pycharm project and replicate `sevir-viz.py` 
