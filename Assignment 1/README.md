@@ -176,11 +176,6 @@ We have implemented a Streamlit app to explore SEVIR Image data and Storm fatali
 ```
 4. Start the app by running `streamlit run sevir-viz.py` where `sevir-viz.py` is your Python script.
 
-## References & Citation
-https://github.com/streamlit/demo-uber-nyc-pickups
-https://github.com/streamlit/demo-self-driving
-https://docs.streamlit.io/en/stable/tutorial/create_a_data_explorer_app.html
-https://www.streamlit.io/gallery
 
 ![image](https://user-images.githubusercontent.com/59846364/110069262-6d9aa980-7d45-11eb-81ec-6ee8a3f5afb5.png)
 
@@ -202,3 +197,11 @@ https://www.streamlit.io/gallery
 ### Apache Superset Dashboard
 
 ![pasted image 0 (1)](https://user-images.githubusercontent.com/59594174/110068796-78a10a00-7d44-11eb-8c71-80821c1c0934.png)
+
+
+
+## References & Citation
+https://github.com/streamlit/demo-uber-nyc-pickups
+https://github.com/streamlit/demo-self-driving
+https://docs.streamlit.io/en/stable/tutorial/create_a_data_explorer_app.html
+https://www.streamlit.io/gallery
